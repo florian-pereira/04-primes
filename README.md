@@ -36,7 +36,7 @@ Si le score n'est pas maximal, répéter l'étape 5️⃣ en tenant compte des m
 6️⃣ Lorsque le grade et le score ``pylint`` sont satisfaisants, pusher le travail pour évaluation
 
     $ git pull
-    $ git add .
+    $  agitdd .
     $ git commit -m "un message explicatif"
     $ git push
 
